@@ -5,7 +5,7 @@
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/felippenardi/lottie-react-web"
+    "url": "git+https://github.com/felippenardi/lottie-react-web.git"
   },
   "license": "MIT",
   "scripts": {
@@ -58,5 +58,10 @@
   "main": "dist/index.js",
   "engines": {
     "npm": "^3.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/felippenardi/lottie-react-web/issues"
+  },
+  "homepage": "https://github.com/felippenardi/lottie-react-web#readme",
+  "author": ""
 }
