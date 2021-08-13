@@ -5,7 +5,11 @@
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felippenardi/lottie-react-web.git"
+    "url": "git+https://github.com/ITLight/reactjs-lottie.git",
+    "directory": "packages/__new-package-name__"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT",
   "scripts": {
