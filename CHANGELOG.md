@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0 (2021-08-13)
+
+
+### Features
+
+* init project ([672c469](https://github.com/felippenardi/lottie-react-web/commit/672c469f8ea5c903fdbabd8b95634c7f0005f5ab))
+
 ### [2.2.2](https://github.com/felippenardi/lottie-react-web/compare/v2.2.1...v2.2.2) (2020-06-10)
 
 
