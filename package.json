@@ -1,15 +1,11 @@
 {
   "name": "reactjs-lottie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lottie wrapper for React on the web.",
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ITLight/reactjs-lottie.git",
-    "directory": "packages/__new-package-name__"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "url": "git+https://github.com/ITLight/reactjs-lottie.git"
   },
   "license": "MIT",
   "scripts": {
