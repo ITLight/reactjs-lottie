@@ -1,6 +1,6 @@
 {
   "name": "reactjs-lottie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lottie wrapper for React on the web.",
   "types": "./index.d.ts",
   "repository": {
