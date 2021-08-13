@@ -185,6 +185,7 @@ export default class Lottie extends React.Component {
         ref={(c) => {
           this.el = c;
         }}
+        className={this.props.className}
         style={lottieStyles}
         title={title}
         role={ariaRole}
@@ -210,6 +211,7 @@ Lottie.propTypes = {
   ariaLabel: PropTypes.string,
   title: PropTypes.string,
   style: PropTypes.string,
+  className: PropTypes.string,
   tabIndex: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
@@ -222,4 +224,5 @@ Lottie.defaultProps = {
   ariaLabel: "animation",
   title: "",
   tabIndex: 0,
+  className: "",
 };
