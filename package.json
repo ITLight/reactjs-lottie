@@ -1,6 +1,6 @@
 {
   "name": "reactjs-lottie",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lottie wrapper for React on the web.",
   "types": "./index.d.ts",
   "repository": {
@@ -60,8 +60,8 @@
     "npm": "^3.0.0"
   },
   "bugs": {
-    "url": "https://github.com/felippenardi/lottie-react-web/issues"
+    "url": "https://github.com/ITLight/reactjs-lottie/issues"
   },
-  "homepage": "https://github.com/felippenardi/lottie-react-web#readme",
+  "homepage": "https://github.com/ITLight/reactjs-lottie#readme",
   "author": ""
 }
