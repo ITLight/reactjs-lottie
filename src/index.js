@@ -138,10 +138,9 @@ export default class Lottie extends React.Component {
 
   registerEvents(eventListeners) {
     eventListeners.forEach((eventListener) => {
-      this.anim.addEventListener(
-        eventListener.eventName,
-        eventListener.callback
-      );
+      this.anim.addEventListener(eventListener.eventName, function () {
+        eventListener.callback(this.props.title);
+      });
     });
   }
 

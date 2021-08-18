@@ -13,7 +13,7 @@ Lottie is a library for the Web, Android and iOS that parses [Adobe After Effect
 
 For the first time, designers can create **and ship** beautiful animations without an engineer painstakingly recreating it by hand.
 
-_This library is a [lottie-react-web](https://github.com/felippenardi/lottie-react-web) fork that adds the capability for **runtime animation control** and fixes lots of bugs._
+_This library is a [lottie-react-web](https://github.com/felippenardi/lottie-react-web) fork that fixes lots of bugs._
 
 # Getting Started
 
